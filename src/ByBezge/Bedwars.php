@@ -1,6 +1,6 @@
 <?php
 
-namespace BluPlayz;
+namespace ByBezge;
 
 use pocketmine\block\Block;
 use pocketmine\Command\Command;
