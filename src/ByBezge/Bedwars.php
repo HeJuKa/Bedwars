@@ -12,7 +12,7 @@ use pocketmine\event\block\BlockPlaceEvent;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\event\inventory\InventoryCloseEvent;  
-use pocketmine\event\inventory\InvenjojotoryPickupItemEvent;
+use pocketmine\event\inventory\InventoryPickupItemEvent;
 use pocketmine\event\inventory\InventoryTransactionEvent;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerChatEvent;
