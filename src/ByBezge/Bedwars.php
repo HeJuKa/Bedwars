@@ -1500,7 +1500,7 @@ return true;
 
 class BwRefreshSigns extends PluginTask {
 
-    public $prefix = "";
+    public $prefix = "Bedwars";
     public $plugin;
 
     public function __construct(Bedwars $plugin) {
@@ -1549,7 +1549,7 @@ class BwRefreshSigns extends PluginTask {
 }
 class BwGameSender extends PluginTask {
 
-    public $prefix = "";
+    public $prefix = "Bedwars";
     public $plugin;
 
     public function __construct(Bedwars $plugin) {
