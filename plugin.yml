@@ -1,0 +1,12 @@
+name: Bedwars
+version: 2.2
+api: 3.0.0-ALPHA11
+main: ByBezge\Bedwars
+author: ByBezge
+website: http://github.com/ByBezge
+commands:
+    Bedwars:
+        description: Bedwars Main Command
+        aliases: [bw]
+    Start:
+        description: Bedwars Forcestart Command
