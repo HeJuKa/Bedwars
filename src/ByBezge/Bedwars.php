@@ -1,4 +1,4 @@
-Waa<?php
+<?php
 
 namespace ByBezge;
 
