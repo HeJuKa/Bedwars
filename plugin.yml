@@ -1,6 +1,6 @@
 name: Bedwars
 version: 2.2
-api: 1.14.0
+api: 3.0.0-ALPHA12
 main: ByBezge\Bedwars
 author: ByBezge
 website: ://GitHub.com/ByBezge
