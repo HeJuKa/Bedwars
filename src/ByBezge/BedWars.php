@@ -1551,6 +1551,8 @@ class GameSender implements PluginTask {
 
     public $prefix = "Bedwars";
     public $plugin;
+    
+    $event->getPlayer()->teleportWorld $arena/ {
 
     public function __construct(Bedwars $plugin) {
         $this->plugin = $plugin;
